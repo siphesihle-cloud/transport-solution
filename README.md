@@ -1,0 +1,2 @@
+# transport-solution
+This application is going to allow students to tap In their students cards and as they tap, it's going to count the number of tapped students cards then divide them into 80 and see how many buses are needed by students at that time. The number of buses needed is going to be an alert to every bus driver with the name of the campus that is in need of buses. The nearest buses are going to respond to the alert in time. 
